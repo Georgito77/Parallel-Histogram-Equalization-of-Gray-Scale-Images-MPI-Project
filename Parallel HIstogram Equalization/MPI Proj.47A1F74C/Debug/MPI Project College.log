@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\George Hany\source\repos\MPI Project College\main.cpp(170,78): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\George Hany\source\repos\MPI Project College\main.cpp(181,28): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\George Hany\source\repos\MPI Project College\main.cpp(182,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  main.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MPI Project College.vcxproj -> C:\Users\George Hany\source\repos\MPI Project College\Debug\MPI Project College.exe
